@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.listitem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 20px;
+}
+.itemimg {
+  height: 200px;
+  width: 300px;
+}
